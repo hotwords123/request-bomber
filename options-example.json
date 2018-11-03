@@ -1,0 +1,8 @@
+{
+    "url": "http://example.com/path",
+    "method": "GET",
+    "headers": {
+        "User-Agent": "node.js-request-bomber/1.0"
+    },
+    "body": ""
+}
